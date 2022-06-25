@@ -1,7 +1,7 @@
 #  ij.start canon setup
 
 
-[![ij.start.canon](Get-Started.png)](#)
+[![ij.start.canon](get.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
 
  
 To get the canon printer driver or software into your device, you need to follow the link **[ij.start canon setup](https://ijijcanos.github.io/)**. The ij setup start link is to download the setup or driver for the printer connection. Canon ij printers are the inkjet printers which are also the All in One printer. The ij printers work for Scanning, Copying, Printing, and Faxing, which is all in one. The ij printers are helpful for the small scale business as well as home use. The business ij printers are Business inkjet printers, and home printers are known as Home inkjet printers.
